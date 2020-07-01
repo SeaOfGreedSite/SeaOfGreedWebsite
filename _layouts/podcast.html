@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<br><br><br>
+
+<div class="row">
+    <div class="centercolumn-blog">
+        <div class="card-blog image-border">
+            <h4 style="float: right; margin: 0">
+                {% if page.layout == "podcast" %}
+                PODCAST
+                {% else %}
+                BLOG
+                {% endif %}
+            </h4>
+            <h2>{{ page.title }}</h2>
+
+            <h5>
+                {% if page.layout != "podcast" %}
+                    {{ page.author }} -
+                {% endif %}
+                {{ page.date | slice: 0, 10 }}
+            </h5>
+
+            <hr>
+
+            <br>
+            <div style="position:relative;padding-bottom:56.25%;">
+                <iframe style="width:90%;height:90%;position:absolute;left:0px;top:0px;"
+                frameborder="0"
+                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+                src="{{ page.yt-link }}">
+                </iframe>
+            </div>
+
+            {{ content }}
+        </div>
+    </div>
+</div>

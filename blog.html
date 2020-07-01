@@ -1,0 +1,48 @@
+---
+layout: default
+---
+<br><br><br>
+
+<div class="row">
+
+    <div class="centercolumn-blog" style="text-align: center">
+        <div class="card-blog image-border">
+            <h1>Blog and Podcast</h1>
+            <h3>This is where we will post the official Sea of Greed development podcast and development blogs. You can subscribe to the podcast here.</h3>
+        </div>
+    </div>
+
+    {% for post in site.posts limit: 50 %}
+
+    <div class="leftcolumn-blog" style="text-align: left" onclick="location.href='{{ site.baseurl }}/{{ post.url }}';">
+        <div class="card-blog image-border postcard">
+
+            <h4 style="float: right; margin: 0">
+                {% if post.layout == "podcast" %}
+                PODCAST
+                {% else %}
+                BLOG
+                {% endif %}
+            </h4>
+            <h2>{{ post.title }}</h2>
+
+            <h5>
+                {% if post.layout != "podcast" %}
+                    {{ post.author }} -
+                {% endif %}
+                {{ post.date | slice: 0, 10 }}
+            </h5>
+
+            <hr>
+
+            <h4>{{ post.summary }}</h4>
+
+            <h5>Click for more.</h5>
+
+        </div>
+    </div>
+
+    {% endfor %}
+
+    <img src="./assets/images/sea-floor.png" style="width: 100%"></img>
+</div>

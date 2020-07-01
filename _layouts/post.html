@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<br><br><br>
+
+<div class="row">
+    <div class="centercolumn-blog">
+        <div class="card-blog image-border">
+
+            <h4 style="float: right; margin: 0">
+                {% if page.layout == "podcast" %}
+                PODCAST
+                {% else %}
+                BLOG
+                {% endif %}
+            </h4>
+            <h2>{{ page.title }}</h2>
+
+
+
+
+            <h5>
+                {% if page.layout != "podcast" %}
+                    {{ page.author }} -
+                {% endif %}
+                {{ page.date | slice: 0, 10 }}
+            </h5>
+
+            <hr>
+
+            {{ content }}
+        </div>
+    </div>
+</div>
