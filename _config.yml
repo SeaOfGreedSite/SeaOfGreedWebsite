@@ -22,7 +22,7 @@ title: Sea of Greed
 email: michaelrulesify@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     This is the website for the free game, Sea of Greed
-baseurl: / # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: https://nobodywasishere.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  nobodywasishere
 
