@@ -279,10 +279,10 @@ body {
 
 .img-front {
     width: 70%;
-    border-radius: 80px;
-    border: 10px dashed #FFDFAA;
+    border: 48px solid transparent;
     margin-top: 5%;
     margin-bottom: 3.5%;
+    border-image: url("./assets/images/rope4x.png") 128 repeat;
 }
 
 .postcard {
