@@ -282,7 +282,7 @@ body {
     border: 48px solid transparent;
     margin-top: 5%;
     margin-bottom: 3.5%;
-    border-image: url("./assets/images/rope4x.png") 128 repeat;
+    border-image: url("./assets/images/rope4x.png") 127 repeat;
 }
 
 .postcard {
