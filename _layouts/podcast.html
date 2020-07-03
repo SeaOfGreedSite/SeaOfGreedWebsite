@@ -23,18 +23,18 @@ layout: default
                 {{ page.date | slice: 0, 10 }}
             </h5>
 
-            <hr>
+            <hr><br>
+
+            <audio controls>
+                <source src="{{ page.file }}" type="audio/mp3">
+                Your browser does not support the <code>audio</code> element.
+        	</audio>
 
             <br>
-            <div style="position:relative;padding-bottom:56.25%;">
-                <iframe style="width:90%;height:90%;position:absolute;left:0px;top:0px;"
-                frameborder="0"
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
-                src="{{ page.yt-link }}">
-                </iframe>
-            </div>
 
             {{ content }}
+
+            Subscribe to the <a href="{{ site.baseurl }}/podcast.xml">RSS Feed</a>
         </div>
     </div>
 </div>

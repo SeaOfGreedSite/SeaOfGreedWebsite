@@ -8,7 +8,7 @@ layout: default
     <div class="centercolumn-blog" style="text-align: center">
         <div class="card-blog image-border">
             <h1>Blog and Podcast</h1>
-            <h3>This is where we will post the official Sea of Greed development podcast and development blogs. You can subscribe to the podcast here.</h3>
+            <h3>This is where we will post the official Sea of Greed development podcast and development blogs. You can subscribe to the podcast RSS feed <a href="{{ site.baseurl }}/podcast.xml">here</a>.</h3>
         </div>
     </div>
 
@@ -27,17 +27,17 @@ layout: default
             <h2>{{ post.title }}</h2>
 
             <h5>
-                {% if post.layout != "podcast" %}
-                    {{ post.author }} -
-                {% endif %}
                 {{ post.date | slice: 0, 10 }}
+                {% if post.layout != "podcast" %}
+                     - {{ post.author }}
+                {% endif %}
             </h5>
 
             <hr>
 
             <h4>{{ post.summary }}</h4>
 
-            <h5>Click for more.</h5>
+            <h5>[Click for more]</h5>
 
         </div>
     </div>
