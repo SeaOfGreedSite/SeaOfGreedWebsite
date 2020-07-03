@@ -15,7 +15,6 @@ gem "jekyll", "~> 4.1.0"
 # gem "github-pages", "~> 206", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-    gem 'jekyll-compress-images', :git => 'https://github.com/valerijaspasojevic/jekyll-compress-images.git'
     gem "jekyll-feed", "~> 0.12"
 end
 
