@@ -7,7 +7,7 @@
         <title>{{ site.title }}</title>
         <link>{{ site.url }}{{ site.baseurl }}</link>
         <language>{{ site.lang }}</language>
-        <copyright>&#xA9; {{ site.time | date: "%Y" }} {{ site.title }}</copyright>
+        <copyright>&#xA9; {{ site.time | date: "%Y" }} {{ site.author }}</copyright>
         <itunes:subtitle>{{ site.subtitle | xml_escape }}</itunes:subtitle>
         <itunes:author>{{ site.author }}</itunes:author>
         <itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
@@ -17,7 +17,7 @@
             <itunes:name>{{ site.author }}</itunes:name>
             <itunes:email>{{ site.email }}</itunes:email>
         </itunes:owner>
-        <itunes:image href="{{ site.url }}{{ site.baseurl }}/images/itunes.jpg" />
+        <itunes:image href="{{ site.url }}{{ site.baseurl }}assets/images/coin.png" />
         <itunes:category text="Games" />
         <itunes:explicit>No</itunes:explicit>
 
@@ -29,7 +29,7 @@
                     <itunes:subtitle>{{ site.title | xml_escape }}: {{ post.title | xml_escape }}</itunes:subtitle>
                     <itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
                     <itunes:image href="{{ site.url }}assets/images/coin.png" />
-                    <enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
+                    <enclosure url="{{ site.url }}{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
                     <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
                     <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
                     <itunes:duration>{{ post.duration }}</itunes:duration>

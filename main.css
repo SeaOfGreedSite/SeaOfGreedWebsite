@@ -315,6 +315,10 @@ body {
   .img-front {
       width: 90%;
   }
+
+  audio {
+      max-width: 1000px;
+  }
 }
 
 audio {
