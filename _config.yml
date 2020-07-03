@@ -23,7 +23,7 @@ email: SeaOfGreedDevs@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     This is the website for the game, Sea of Greed
 baseurl: # the subpath of your site, e.g. /blog
-url: https://www.seaofgreed.com/ # the base hostname & protocol for your site, e.g. http://example.com
+url: https://seaofgreed.com/ # the base hostname & protocol for your site, e.g. http://example.com
 author: Gladstone Games
 
 # Build settings
