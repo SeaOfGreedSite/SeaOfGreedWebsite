@@ -28,7 +28,7 @@ layout: default
 
             <h5>
                 {{ post.date | slice: 0, 10 }}
-                {% if post.layout != "podcast" %}
+                {% if post.author %}
                      - {{ post.author }}
                 {% endif %}
             </h5>
@@ -37,8 +37,9 @@ layout: default
 
             <h4>{{ post.summary }}</h4>
 
+            {% if post.more != "No" %}
             <h5>[Click for more]</h5>
-
+            {% endif %}
         </div>
     </div>
 

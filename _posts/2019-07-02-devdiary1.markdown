@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Dev Diary 1"
+date: 2019-07-01 00:00:00 -0400
+author: /u/SeaOfGreedDevs
+summary: "Wally's not dead!
+
+It’s been a little too long since our last update, but even if things have been pretty quiet we’ve been busy working on the game. We’re also looking to make these little updates a more regular thing to keep you all in the loop for where we’re at and where we’re going.
+
+We really want to make the dream of gold become our Sea of Greed."
+description:
+keywords:
+---
+
+__Wally's not dead!__
+
+It’s been a little too long since our last update, but even if things have been pretty quiet we’ve been busy working on the game. We’re also looking to make these little updates a more regular thing to keep you all in the loop for where we’re at and where we’re going.
+
+We really want to make the dream of gold become our Sea of Greed.
+
+The big news today is that the demo we promised a while back is actually almost done now! It’s a little too early to say when exactly you’ll be able to download it, but it is looking pretty cool.
+
+Even if it’s not quite ready, we’re all really looking forward to sharing a piece of what the game will feel like.
+
+A bit on the technical side, but we’ve passed a big milestone in the last couple weeks with a rework of the dialogue system being completed with the new quest system GUI. The team has gone from something out of the [90s](https://imgur.com/6nvQHxH) to an [intuitive node based design](https://imgur.com/AxxXtv4).
+
+It’s not something that will be seen in the final game, but it allows the Sea of Greed devs to quickly build new quests using the game’s assets.
+
+Our programmer bandit had some cheeky fun testing all this out and I guess we can all see why he’s not writing the script.
+
+On the story front, we’ve finished up [the Curtain Thief](https://imgur.com/D8XcEiS) side quest and had a fun time designing all the little ins and outs of how exactly it would work in the game. Why would anyone want to steal curtains in the first place? Well, you’ll have to play the demo if you want to find out.
+
+We’ll be writing more of this little updates in the future, so be sure to check back for some sneak peeks at how Sea of Greed is evolving!
+
+Also, join our discord!
+
+---
+
+Originally posted on [/r/seaofgreed](https://www.reddit.com/r/seaofgreed/comments/c84mmc/dev_diary_1/)

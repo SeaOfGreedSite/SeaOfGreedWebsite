@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Dev Diary 4 - The Grant Behind The Curtain"
+date: 2019-08-04 00:00:00 -0400
+author: /u/SeaOfGreedDevs
+summary: "The story of Sea of Greed’s development is fairly well known here, starting as something between a fever dream and a dank meme. Caldy and his infamous tweet about one of Nintendo’s most underused characters was the perfect spicy mix of ridiculousness and imagination.
+
+His silly idea was obviously taking a jab at the great purple villain who completes the Mushroom Kingdom’s axis of evil, but it was worth well more than just a few laughs. The quick sketch and its pirate exploration aspirations led Grant Eubanks, the guy you have to blame for this game, to do the unthinkable."
+description:
+keywords:
+---
+
+The story of Sea of Greed’s development is fairly well known here, starting as something between a fever dream and a dank meme. [Caldy and his infamous tweet](https://twitter.com/caldy/status/877661229254180865) about one of Nintendo’s most underused characters was the perfect spicy mix of ridiculousness and imagination.
+
+His silly idea was obviously taking a jab at the great purple villain who completes the Mushroom Kingdom’s axis of evil, but it was worth well more than just a few laughs. The quick sketch and its pirate exploration aspirations led Grant Eubanks, the guy you have to blame for this game, to do the unthinkable.
+
+[He made a meme and posted it to r/me_irl.](https://i.redd.it/jdprcreqbc831.png)
+
+After the initial shock of not having his post lost in the vast ocean of unseen memes, it was time to get to work. Grant set up the framework for what would become the Sea of Greed community and to his surprise, people were volunteering left and right. It quickly became clear this wasn’t just a meme!
+
+The unusual beginnings may be more than unorthodox, but they set in stone an important aspect of the community. Sea of Greed is about having fun with friends. That commitment to both the game and the spirit ended up even catching the eyes of [the OP himself](https://web.archive.org/web/20180625013359oe_/http://www.dorkly.com/post/86641/how-one-tweet-kickstarted-a-community-into-building-a-waluigi-pirate-game").
+
+The mix of backgrounds, passions, skill sets, and ages working on the game really adds to that communal feeling. The unique tastes and perspectives from everyone on the team keeps this a completely original game with each step forward.
+
+Sea of Greed has evolved from the slighted Waluigi game to something that is uniquely ours, a story about the greatest pirate ever, Wally Gladstone.
+
+That spark from Grant made everything real and has kept the spirit of our wily purple dude alive today, and with [the recent playtest](http://127.0.0.1:4000/2019/08/04/devdiary3.html) there’s no more question of “if” the game is coming, only “when”.
+
+To get to know more about the man behind the curtain, Grant was recently interviewed. He goes further into the details behind how Sea of Greed impacted his life and how proud he is of what the game, Wally, and the community have become.
+
+Grant Eubanks – Greedy Sea
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/666706967&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/comatose-podcast" title="Comatose Podcast" target="_blank" style="color: #cccccc; text-decoration: none;">Comatose Podcast</a> · <a href="https://soundcloud.com/comatose-podcast/grant-eubanks-greedy-sea" title="Grant Eubanks - Greedy Sea" target="_blank" style="color: #cccccc; text-decoration: none;">Grant Eubanks - Greedy Sea</a></div>
+---
+
+Originally posted on [/r/seaofgreed](https://www.reddit.com/r/seaofgreed/comments/cr7fml/dev_diary_4_the_grant_behind_the_curtain/)

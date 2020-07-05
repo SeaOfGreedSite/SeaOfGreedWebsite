@@ -21,10 +21,10 @@ layout: default
 
 
             <h5>
-                {% if page.layout != "podcast" %}
-                    {{ page.author }} -
-                {% endif %}
                 {{ page.date | slice: 0, 10 }}
+                {% if page.author %}
+                     - {{ page.author }}
+                {% endif %}
             </h5>
 
             <hr>

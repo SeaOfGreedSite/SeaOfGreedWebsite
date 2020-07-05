@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Dev Diary 7 – Playing with Sound!"
+date: 2019-11-14 00:00:00 -0400
+author: /u/SeaOfGreedDevs
+summary: "The Sea of Greed team has been busy in the workshop, gathering all the tools and creating the rest of the puzzle pieces we’ll need for a complete game. There isn’t a big jump in new assets this week, but we wanted to share something special all the same."
+description:
+keywords:
+---
+
+_The months get colder, the days get shorter, and the seas get greedier._
+
+The Sea of Greed team has been busy in the workshop, gathering all the tools and creating the rest of the puzzle pieces we’ll need for a complete game. There isn’t a big jump in new assets this week, but we wanted to share something special all the same.
+
+A couple months ago we shared a playtest that let you run, jump, roll, and swing your sword as the lovable Wally Gladstone. We truly enjoyed sharing all the work from the artists, programmers, designers, and more who come together for something everyone could finally play!
+
+But it was missing a little something. Something that was especially noticeable for headphones users.
+
+Sound.
+
+The lack of any noises or music in the playtest wasn’t a mistake though. Getting all the sounds into the game was just something we wanted to make sure was done right before we shared it.
+
+[Josh Mallard](https://soundcloud.com/joshuamallard), Audio Director, and Bandit, lead programmer, worked hand in hand to make a sound filled playtest a reality and we’re happy to share just that with you today!
+
+As we’ve written in past dev diaries, Josh has been busy at his soundboard mixing [_swooshes_ and _swishes_](http://127.0.0.1:4000/2019/09/30/devdiary6.html), getting the right combinations of oofs and umphs to make Wally’s wobbles nice and crunchy.
+
+He’s also been busy putting the finishing touches on several music tracks integral to the core gameplay while Bandit created the system for putting enemies in a combat state. The result is a work in progress, but at least you can play around in an environment that reacts to how you play __with sounds__!
+
+Uh oh… the music changed… Getting a bit too close to enemies?
+
+Better test out those swishes lest ye be swarmed by crabs!
+
+Download the latest playtest and have fun with all the new noises in Sea of Greed!
+
+[Windows](https://drive.google.com/drive/folders/1mqa08HzAOzDDXP2Jb2XA_537o0TB9jsh?usp=sharing) [Mac](https://drive.google.com/drive/folders/1cwhxI_FZccJsNe_H6Cr7hsnEXP4Uhq7w?usp=sharing)
+
+---
+
+Originally posted on [/r/seaofgreed](https://www.reddit.com/r/seaofgreed/comments/dhw9aw/dev_diary_7_playing_with_sound/)

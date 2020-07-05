@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Dev Diary 3 - Wally Wants To Play"
+date: 2019-08-04 00:00:00 -0400
+author: /u/SeaOfGreedDevs
+summary: "With a flurry of keystrokes and some last minute hacking, the devs behind Sea of Greed cooked up something extra spicy for you all this time: A real working play test of Sea of Greed!
+
+That’s right it’s time for you to put your hands on your keyboard and start running and jumping with Wally!"
+description:
+keywords:
+---
+
+With a [flurry of keystrokes and some last minute hacking](https://youtu.be/2vN8g9aMO_M?t=3), the devs behind Sea of Greed cooked up something extra spicy for you all this time: A real working play test of [_Sea of Greed_](https://drive.google.com/file/d/1-0Lf4maORAS8xzzj_szm5RqJR9ki64l5/view?usp=sharing)!
+
+That’s right it’s time for you to put your hands on your keyboard and start running and jumping with Wally!
+
+Bandit, lead programmer, completed the dialogue system over the last couple weeks and the result is not only visually impressive, it’s a big step forward for the game’s development.
+
+Take a look at the [screenshot](https://cdn.discordapp.com/attachments/353756193908326402/606814977222770700/ggzzbbAndysnap_513.png)!
+
+<img src="https://cdn.discordapp.com/attachments/353756193908326402/606814977222770700/ggzzbbAndysnap_513.png" width="100%">
+
+It may be a lot to take in at first, but after a quick scan it's actually pretty simple. All the nodes can be easily connected and with the addition of character portraits, figuring out who is saying what is quick and intuitive.
+
+The team also wanted to make sure the play test had a working main menu and enough play space to really have fun with Wally.
+
+The main menu was built, or rather rebuilt, by bandit as well. It may seem like a simple thing, but it gives the whole test feel much more like a game you can play and less like a cool collection of code.
+
+The play area was largely the creative work of Tubs, lead artist. Tubs picked up his paintbrushes, filled in pixels and created a perfectly crumulent space for everyone to play around in.
+
+Really digging into it, all the art assets you see in the play test were done by Tubs and his awesome eye for aesthetics!
+
+Fleshing out the playable area a bit more is the inclusion of a few NPCs and that meant writing new dialogue from writer, Jeromy "Dungwiz" Dickey.
+
+Our resident dunglord lovingly took up the quill and decided to do his part to raise awareness on important issues through the in-game conversations and the dolphin's really out of the bag now.
+
+So what are you waiting for?
+
+[Download the _Sea of Greed_ play test now](https://drive.google.com/u/0/uc?export=download&confirm=5ZjM&id=1-0Lf4maORAS8xzzj_szm5RqJR9ki64l5) and start _wahing_ with the one and only Wally Gladstone!
+
+---
+
+Originally posted on [/r/seaofgreed](https://www.reddit.com/r/seaofgreed/comments/clyvs3/dev_diary_3_wally_wants_to_play/)

@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Dev Diary 6 – Swing and a Swoosh!"
+date: 2019-09-30 00:00:00 -0400
+author: /u/SeaOfGreedDevs
+summary: "The sound behind a game is a big part of what makes playing it so much fun. Seeing a big windup leading to a massive punch is one thing, but when there’s a sound that goes with it?"
+description:
+keywords:
+---
+
+The sound behind a game is a big part of what makes playing it so much fun. Seeing a big windup leading to a massive punch is one thing, but when there’s a sound that goes with it?
+
+__WALLUP__
+
+Now that’s some big Wally energy.
+
+It’s a similar story for a game’s music and the power it adds to any given scene on the screen.
+
+Staying true to that, behind every door of the various villages hiding in the Sea of Greed is an original score. The foreboding isles beyond the misty shores start off with the eerie music you would expect from such a ghastly ghost town.
+
+All these audible oddities made the lack of any sound in the last playtest all the more remarkable. If you’ve been keeping up with these diaries though, you should know the sonic experience of a game is important to everyone working on Sea of Greed and none of the devs have forgotten the importance of sound effects and soundtracks.
+
+Development, however, sometimes happens at different paces for different teams. A lot of the sounds and music have been ready for your ears for a long time now, but making it match up to every swinging sword and dangerous deed is a bit more complicated.
+
+[Josh Mallard](https://soundcloud.com/joshuamallard), Audio Director, with team musicians IllBeGoodOneDay and Combokarel have created new combat music loops. You can listen to Josh’s track to get a feel for the fear you’ll need to get used to every time you see a stray crab.
+
+<audio controls src="https://cdn.discordapp.com/attachments/331319983172747275/628287156535951370/SoG_CombatLoop_01.ogg" type="audio/ogg">Your browser does not support the audio tag.</audio>
+
+Bandit, lead programmer and Astraeus, project manager, have also been working closely with Josh to bring it all together and are now delighted to share that Sea of Greed is now a sight to behold filled with noises to be told.
+
+Take a look at the latest gameplay video to see all the sound effects and reactive background music working in the wild!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3azf9v_eEkI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+Originally posted on [/r/seaofgreed](https://www.reddit.com/r/seaofgreed/comments/dbh1bj/dev_diary_6_swing_and_a_swoosh/)

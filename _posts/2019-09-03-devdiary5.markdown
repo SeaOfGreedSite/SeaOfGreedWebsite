@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Dev Diary 5 – Writing and Guiding Wally"
+date: 2019-09-03 00:00:00 -0400
+author: /u/SeaOfGreedDevs
+summary: "A sea by any other name would be as greedy. That's right, Wally's proper prose and tempered stammers are what's on the menu tonight!"
+description:
+keywords:
+---
+
+A sea by any other name would be as greedy. That's right, Wally's proper prose and tempered stammers are what's on the menu tonight!
+
+SolemnTex and Jeromy 'Dungwiz' Dickey have been hard at work hammering out the narrative details of Sea of Greed. The duo of scribes have gone through the ancient scrolls that made up the epic tale of Wally, Bremen, and Vivi and made everything more defined.
+
+We now have a clearly defined arcs for Sea of Greed! Solemn and Dungwiz have traced the map that will help players and devs navigate the plot in a coherent and compelling story. In essence, everything was streamlined and spelled out plainly so the rest of the team knows how and where we should move forward with development
+
+This also gave the Game Design team some valuable space to stretch and breath with Canari taking charge and fully tiling out Buccanear Bay, the first full map of the game. It’s still missing some art, but the mechanics behind the map are now fully ready for running, jumping, rolling, and shooting.
+
+The process of building up that blockout map starts with lines on paper and giving each tile it’s unique flavor. The result is… not the prettiest picture in the world, but it’s functional!
+
+<img src="https://cdn.discordapp.com/attachments/422571869644783616/618335708242771969/blockout_3.png" width="50%">
+
+Our lead artist Tubs is here to save the day anyway then steps in to save the day by gracing the map with aesthetics. I’s only a matter of bringing things down to scale and adding the UI and you’ll be looking at what the game actually looks like.
+
+<img src="https://cdn.discordapp.com/attachments/422571869644783616/618349997225672724/art_pass.png" width="100%">
+
+In other words, the core mechanics are being set in stone and that means we'll be having a pristine picture of what Sea of Greed will feel like to play, whether it’s plundering booty or collecting lumber.
+
+No matter the task, what’s important is it will feel like it’s the one and only Wally Gladstone who’s performing it!
+
+There is still plenty of room for secrets and side quests, but the big news is that the core of the game is now complete. We're building a walking skeleton that's just as spooky as the nastiest pirate in all of the Misty Seas.
+
+That also means that there should be some frighteningly exciting updates in the near future for all the Wally fans out there!
+
+---
+
+Originally posted on [/r/seaofgreed](https://www.reddit.com/r/seaofgreed/comments/cz8ncc/dev_diary_5_writing_and_guiding_wally/)

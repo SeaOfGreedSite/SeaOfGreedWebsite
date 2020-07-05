@@ -1,0 +1,64 @@
+---
+layout: post
+title: "Dev Diary 2 - Sounding Wally"
+date: 2019-07-15 00:00:00 -0400
+author: /u/SeaOfGreedDevs
+summary: "Stop, children, what's that sound? Everybody look at Wally's town... and all the noisy neighbors waiting behind every door.
+
+A quick dash isn't quite quick enough without that woosh and a big boss fight isn't as intense without the epic accompaniment.
+
+Lucky for us, the people working on Sea of Greed are a passionate bunch who know when to add an ooo and when to add an aww."
+description:
+keywords:
+---
+
+Stop, children, what's that sound? Everybody look at Wally's town... and all the noisy neighbors waiting behind every door.
+
+A quick dash isn't quite quick enough without that woosh and a big boss fight isn't as intense without the epic accompaniment.
+
+Lucky for us, the people working on Sea of Greed are a passionate bunch who know when to add an ooo and when to add an aww.
+
+For the original soundtrack, the international collaboration has resulted in a unique take on a unified sound. Some of the musicians behind the music wanted to share the amazing audio they’ve been composing.
+
+- [Are You Feeling Good?](https://drive.google.com/file/d/1XJjssWNVW8aznBIlm593M9a9JJHTKe5M/view?usp=drivesdk)
+<audio controls src="https://drive.google.com/uc?export=download&id=1XJjssWNVW8aznBIlm593M9a9JJHTKe5M" type="audio/mp3">Your browser does not support the audio tag.</audio>
+
+PK’s Are You Feeling Good? was actually written years ago. The piece really sets the tone for the cove with all its wonders and may even find its way into a larger theme for those who listen closely.
+
+- [Warmth](https://drive.google.com/file/d/1-A2qS79mQj6gHNDjdPhJaUQUX_U9KHV6/view?usp=drivesdk)
+<audio controls src="https://drive.google.com/uc?export=download&id=1-A2qS79mQj6gHNDjdPhJaUQUX_U9KHV6" type="audio/mp3">Your browser does not support the audio tag.</audio>
+
+[Grant Eubanks](https://soundcloud.com/grant-eubanks) and his track Warmth then build up some soft insulating walls to keep in all the heat in a particularly cold northern ice island. Grant wanted to capture that warm feeling of being bundled up on a cold winter’s day, something that sounds warm even if its surrounded by cold.
+
+At the same time our sound design lead, [Joshua Mallard](https://soundcloud.com/joshuamallard), has been hard at work making sure every swig of beer and every wave in the sea has the right sonic touch to complete and compliment the game's aesthetics.
+
+Joshua finds inspiration in classic top-down RPG titles with a particular affinity for older retro Zelda games. He wanted to recreate that somewhat nostalgic sound in Sea of Greed while still adding a modern touch to the 90s feel.
+
+So instead of just using the same white-noise based sound effects used in titles like a Link to the Past, Joshua has created new sounds for all the effects in the game. His goal is to have everything reflect the unique aesthetic of Wally and his world that isn’t directly comparable to any other game, old or new.
+
+This approach has resulted in a simple audio system that stands the test of time. There’s a limited number of sounds, giving everything a unique Wally flavor and reflecting the overarching themes of the story.
+
+Currently the most fleshed out elements are environmental effects that put a strong emphasis on the unique visual elements of the game. Every zone has its own sound palette without clogging up the audio mix with unnecessary noises.
+
+To get a better idea of what that design philosophy sounds like, take a listen to three in-game sounds:
+
+- [Revolver](https://cdn.discordapp.com/attachments/331319983172747275/599562050536079380/Revolver_Peacemaker_Krushed.mp3)
+<audio controls src="https://cdn.discordapp.com/attachments/331319983172747275/599562050536079380/Revolver_Peacemaker_Krushed.mp3" type="audio/mp3">Your browser does not support the audio tag.</audio>
+
+This gun sound effect is based on a peacemaker. Joshua took the original sound and bit crushed it to combine the layers and find a balance between old and new.
+
+- [Fireball](https://cdn.discordapp.com/attachments/331319983172747275/599561339383316504/co_spell_fireball_closefire.mp3)
+<audio controls src="https://cdn.discordapp.com/attachments/331319983172747275/599561339383316504/co_spell_fireball_closefire.mp3" type="audio/mp3">Your browser does not support the audio tag.</audio>
+
+This fireball sound effect is more an example of a somewhat standard fireball sound. Joshua will be taking this original sound and tweaking it to fit the Sea of Greed soundscape.
+
+- [Sword](https://cdn.discordapp.com/attachments/331319983172747275/599561164120129557/co_sword_whoosh_sequence.mp3)
+<audio controls src="https://cdn.discordapp.com/attachments/331319983172747275/599561164120129557/co_sword_whoosh_sequence.mp3" type="audio/mp3">Your browser does not support the audio tag.</audio>
+
+This is a pretty usual sword whoosh or slash. It’s not the most exciting, but gives a nice taste of all the different sounds we’re working into the game.
+
+The music, beeps, boops, swishes, and slashes are a big part of what makes the game so make sure you have your sound on when you play Sea of Greed!
+
+---
+
+Originally posted on [/r/seaofgreed](https://www.reddit.com/r/seaofgreed/comments/cdih53/dev_diary_2_sounding_wally/)
