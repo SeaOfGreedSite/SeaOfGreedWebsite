@@ -8,4 +8,5 @@ Source code for the Sea of Greed Website, hosted on Github Pages.
 - [Podcast functionality](https://wiobyrne.com/use-github-pages-jekyll-to-host-a-podcast/)
 
 ### License
-All HTML and CSS source code follows the MIT License. Please do not share or distribute the assets of the site (like images, artwork, audio, and fonts) as those remain copyright of their respective owners.
+All assets (images, artwork, fonts, audio, etc) are copyright of their respective owners and used by this project by permission only.
+All code is copyright 2020 Gladstone Games under the MIT License. See LICENSE.
