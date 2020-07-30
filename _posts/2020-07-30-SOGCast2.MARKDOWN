@@ -1,0 +1,36 @@
+---
+layout: podcast
+title: "SOGcast Episode 2 <br>(feat. Caldwell Tanner)"
+date: 2020-07-30 00:00:00 -0400
+file: "/assets/podcast/sogcast2.mp3"
+summary: "In the second episode of the official Sea of Greed Podcast (SOGcast) we talk about the dream-based origins of the game, grapes, birthdays, new content, under the hood stuff, the pressures of leadership, and furries with the man who created this concept in the first place, illustrator, podcaster, and self proclaimed comedian Caldwell Tanner."
+description: "In the second episode of the official Sea of Greed Podcast (SOGcast) we talk about the dream-based origins of the game, grapes, birthdays, new content, under the hood stuff, the pressures of leadership, and furries with the man who created this concept in the first place, illustrator, podcaster, and self proclaimed comedian Caldwell Tanner."
+duration: "1:14:29"
+length: "4469"
+explicit: "Yes"
+keywords: "sea of greed, video games, retrospective, game development, grapes, leadership, new content"
+block: "no"
+voices: "grant, Rastapopoulous, Astraeus, Tubs, Bandit, nobodywasishere, Caldwell Tanner"
+---
+
+<div style="position:relative;padding-bottom:56.25%;">
+    <iframe style="width:90%;height:90%;position:absolute;left:0px;top:0px;padding-left:5%"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+    src="https://www.youtube.com/embed/RB5oe3o2PPQ">
+    </iframe>
+</div>
+
+## SOGcast \#2
+
+WE TURNED A CALDY IDEA INTO A GAME???!!!?!?!?!?!
+
+In the second episode of the official Sea of Greed Podcast (SOGcast) we talk about the dream-based origins of the game, grapes, birthdays, new content, under the hood stuff, the pressures of leadership, and furries with the man who created this concept in the first place, illustrator, podcaster, and self proclaimed comedian Caldwell Tanner.
+
+Along with Caldy, we have Astraeus (project manager, game designer, and idea guy), Tubs (the art lead), Grant (the dude typing this), Rastapopoulos (the writing lead), nobodywasishere (web dev and programmer), and Bandit (the programming lead) all talking about stuff that's wildly off topic.
+
+
+
+Follow Caldy's stuff:
+NADDPOD: https://www.naddpod.com/
+TWITTER: https://twitter.com/caldy
